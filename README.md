@@ -1,5 +1,4 @@
 # Telegram Bot RedTeam
----
 
 <p>
   Um bot para telegram com foco em redteam.
@@ -41,7 +40,6 @@
 </details>
 
 # Considerações finais
----
 
 <p>
   O projeto ainda está em desenvolvimento e várias funções ainda vão ser adicionadas, por exemplo um scan em rede interna.
